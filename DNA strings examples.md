@@ -1,0 +1,21 @@
+##### String #1 (1000 bases; 1016 characters):
+
+aggttatccgaatttatcagatgccgagcagtgggagcgaagttatccagtctcaagctc
+cacgtggcttttccctgattgagcccaagataagcagaagctctttcagtcccactctta
+gggcaggggatgtcccatatgacgactttcagattttaacgaaacttccaatactgtggg
+gtccaagacgtacgttcccatctgtaggctccggtgaacggcgatcgattgtacggtatc
+aactccaacatttcatttccactgtgaacatattcacggctccggaggtgccaactttcc
+tgcacaacgaccgagtggtagttcttcgtcgccacatgggccaggagcgacctgataggt
+cggccacctccaatagtcaaacgacgagatgatgtttgattgtgcttggagttagttgtg
+tatcaggagagcgaatcttggcggctaatatagattcctagtccgcaataagctagcggt
+atgcataggcgcgaccgcgacatgtgggagtaattatggcccttatctgaatcccctgtc
+aagccctctgtatgcgtagaactcttctgttaagaaaccttgacagctggcattgagcat
+aagccttgtggcatcgaacacggtcgttagtgccgaatggtcccgcaacgttcttggtac
+ttcgtggccggcacttgttcccctacagtgcagatccccccaagtcgtcatccggaagtg
+gtactgtagtaataactgactaagagaggaaagacgagtttctgttgtttaaggtgtgct
+ggtctccaccggcatttggggccggtggtacgttgttttcggcctttccggatatcctta
+gacagacgagctcgactagcgctgagttatccgtatcacgatgtaacaaatgggccccac
+cagagccgctcacagctcttgatcccgatcgtgagacctttgctaaatttaaatgtacga
+cgacgcaattttgggctgtacgcccgccggaaacgtgtgt
+
+--------------------------------------------------------------
