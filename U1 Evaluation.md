@@ -22,7 +22,11 @@ For the report, it is important to be specific what kind of compression is being
 
 # Introduction 
 
-According to Wonk, P. (2019), to really become a full "unicorn" data scientis you should be able to know and understandt the entire process from the very beggining (data obtation) and storage all the way to the data visualization and all of them are as important as the next one. This time we will focuse mainly on data storage.
+According to Wonk, P. (2019), to really become a full "unicorn" data scientis, you should be able to know and understand the entire process from the very beggining (data obtation and storage) all the way to the data visualization, and all of them are as important as the next one. This time we will focuse mainly on data storage.
+
+##### Data storage
+This is a very important part of the data analysis process because it is in here where we can plant the roots of our entire system; depending on the place we store our data in (an external server, locally, the cloud), the type of data stored, and the capacity of our storage-place, will be the backbone of our analysis system. Our code and system are highly dependent on the way we store our information and is in this step when we start the process of what a data-scientist must do. 
+
 
 ---------------------------------------------------
 # References 
