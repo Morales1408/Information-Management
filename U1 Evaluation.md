@@ -17,3 +17,14 @@ For the report, it is important to be specific what kind of compression is being
 *The results are based on the tech demo.
 
 ###### Note: Even if the way to apply the compression to a data science process is the same among different teams, the reports and implementations (tech demos) should not. That is, there shouldn't be identical codes.
+
+--------------------------------------------------
+
+# Introduction 
+
+According to Wonk, P. (2019), to really become a full "unicorn" data scientis you should be able to know and understandt the entire process from the very beggining (data obtation) and storage all the way to the data visualization and all of them are as important as the next one. This time we will focuse mainly on data storage.
+
+---------------------------------------------------
+# References 
+  +    Wonk, P. (2019). _Everything a Data Scientist should know (but was afraid to ak)_. Retreived June 20 from: 
+https://towardsdatascience.com/everything-a-data-scientist-should-know-about-data-management-6877788c6a42 
