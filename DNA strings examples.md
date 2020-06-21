@@ -18,4 +18,5 @@ gacagacgagctcgactagcgctgagttatccgtatcacgatgtaacaaatgggccccac
 cagagccgctcacagctcttgatcccgatcgtgagacctttgctaaatttaaatgtacga
 cgacgcaattttgggctgtacgcccgccggaaacgtgtgt
 
+Size = 1016*8 = 8128 bits
 --------------------------------------------------------------
